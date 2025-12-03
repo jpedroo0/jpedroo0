@@ -96,6 +96,8 @@
 />
 
 <br></br>
+<br></br>
+
  <!-- GIF -->
 <p align="center">
   <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc1MXJxZDd2dWR3enB1MWFhbWJnOTNqcmwwanM0NTE4aXJ4dmlhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dGzPLRaabb0c/giphy.gif" alt="Imagem">
