@@ -1,8 +1,12 @@
 #   João Pedro Inocêncio Campos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`** 
 
- Me chamo João Pedro Inocêncio Campos, tenho 20 anos e sou natural de Goiás. Estou cursando Sistemas de Informação na UFU e sou apaixonado por tecnologia e tenho buscado melhorar minhas competências a cada dia.
+ Me chamo João Pedro Inocêncio Campos, tenho 20 anos e sou natural de Goiás. Estou cursando Sistemas de Informação na UFU e sou apaixonado em transformar desafios em soluções tecnológicas eficientes e de impacto.
+
+Minha base de experiência prática se constrói na ASCII Soluções em Tecnologia (Empresa Júnior da FACOM/UFU), onde atuo como Assessor de Projetos, desenvolvendo soluções para clientes reais e também auxiliando em reuniões e documentação de projetos. 
+
+Venho buscado por experiências profissionais que possam impulsionar ainda mais minha carreira.
 #
 
 ###  Linguagens e Tecnologias
