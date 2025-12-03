@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro Inocêncio Campos, tenho 20 anos e sou natural de Goiás. Estou cursando Sistemas de Informação na UFU e sou apaixonado por tecnologia e tenho buscado melhorar minhas competências a cada dia.
-
+ Me chamo João Pedro Inocêncio Campos, tenho 20 anos e sou natural de Goiás. Estou cursando Sistemas de Informação na UFU e sou apaixonado por tecnologia e tenho buscado melhorar minhas competências a cada dia.
+#
 
 ###  Linguagens e Tecnologias
 
@@ -94,5 +94,11 @@ Me chamo João Pedro Inocêncio Campos, tenho 20 anos e sou natural de Goiás. E
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br></br>
+ <!-- GIF -->
+<p align="center">
+  <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc1MXJxZDd2dWR3enB1MWFhbWJnOTNqcmwwanM0NTE4aXJ4dmlhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dGzPLRaabb0c/giphy.gif" alt="Imagem">
+</p>
 
 </p>
