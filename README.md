@@ -101,10 +101,6 @@ Venho buscado por experiências profissionais que possam impulsionar ainda mais 
 
 <br></br>
 <br></br>
-
- <!-- GIF -->
-<p align="center">
-  <img align="center" src="https://giphy.com/gifs/bleach-soul-eater-NeAyHP3YxoOBO" alt="Imagem">
+ ![soul eater anime boy GIF](https://github.com/user-attachments/assets/8bf38334-ad40-4bd4-92d7-a5e006059e91) 
 </p>
 
-</p>
